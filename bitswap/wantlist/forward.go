@@ -6,7 +6,7 @@ import (
 )
 
 type (
-	// Deprecated: use wantlist.Entry instead
+	// Deprecated: use wantlist.NewEntry instead
 	Entry = wantlist.Entry
 	// Deprecated: use wantlist.Wantlist instead
 	Wantlist = wantlist.Wantlist
